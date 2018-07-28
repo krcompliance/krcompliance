@@ -90,7 +90,7 @@ public class MainActivity extends Activity {
 	    
 	    private TextWatcher billEditTextWatcher = new TextWatcher() 
 	    {
-	       // called when the user enters a number
+	       // called when the user enters a number test
 	       @Override
 	       public void onTextChanged(CharSequence s, int start, int before, int count) 
 	       {         
